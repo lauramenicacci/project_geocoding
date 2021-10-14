@@ -27,7 +27,8 @@ make data and maps available for the user to select countries of interest
 IN DOUBT
 Steps: 
 
-Retrieve the dataset. The source we used to download data is https://ec.europa.eu/eurostat/web/transport/data/database. 
-Clean and merge the datasets, rendering it available to use. 
-Analysis 
+- Retrieve the dataset. The source we used to download data is https://ec.europa.eu/eurostat/web/transport/data/database. 
+- Clean and merge the datasets, rendering it available to use. 
+- Analysis
+
 
