@@ -13,4 +13,11 @@ for i in list:
     df_list.append(data)
 
 final_dataset = pd.concat(df_list)
+final_dataset['REPORTER'] = final_dataset['REPORTER'].replace({'Belgium (incl. Luxembourg \'LU\' -> 1998)':'Belgium'})
+final_dataset['REPORTER'] = final_dataset['REPORTER'].replace({'Germany (incl. German Democratic Republic \'DD\' from 1991)':'Germany'})
+final_dataset['REPORTER'] = final_dataset['REPORTER'].replace({'Ireland (Eire)':'Ireland'})
+final_dataset['REPORTER'] = final_dataset['REPORTER'].replace({'Spain (incl. Canary Islands \'XB\' from 1997':'Spain'})
+final_dataset['REPORTER'] = final_dataset['REPORTER'].replace({'France (incl. Saint Barth�lemy \'BL\' -> 2012; incl. French Guiana \'GF\', Guadeloupe \'GP\', Martinique \'MQ\', R�union \'RE\' from 1997; incl. Mayotte \'YT\' from 2014)':'France'})
+final_dataset['REPORTER'] = final_dataset['REPORTER'].replace({'Italy (incl. San Marino \'SM\' -> 1993)':'Italy'})
+
 final_dataset.to_csv('complete_dataset.csv')
