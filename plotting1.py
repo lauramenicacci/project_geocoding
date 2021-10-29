@@ -3,6 +3,7 @@ import webbrowser
 from folium.plugins import MarkerCluster
 import pandas as pd
 
+complete_dataset = pd.read_csv('complete_dataset.csv')
 position_countries = pd.read_csv('position_countries.csv')
 lat = position_countries['latitude'].mean()
 print(lat)
