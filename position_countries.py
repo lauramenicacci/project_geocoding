@@ -7,7 +7,7 @@ df_list = pd.read_html(html)
 df_position = df_list[-1]
 complete_dataset = pd.read_csv('complete_dataset.csv')
 
-# print(df)
+
 print(list(set(complete_dataset['REPORTER'])))
 l = []
 print(list(df_position['name']))

@@ -139,26 +139,26 @@
 137,May. 2021,Ireland,India,Total,EXPORT,Sea,VALUE_IN_EUROS,10 037 476
 138,Jun. 2021,Ireland,India,Total,EXPORT,Sea,VALUE_IN_EUROS,16 216 646
 139,Jul. 2021,Ireland,India,Total,EXPORT,Sea,VALUE_IN_EUROS,16 309 674
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,74 642 453
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,88 365 594
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,86 218 828
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,51 651 863
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,45 511 149
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,57 330 921
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,53 070 869
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,63 271 253
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,70 002 829
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,73 278 910
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,86 702 749
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,90 891 875
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,840 939 293
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,78 215 070
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,80 351 555
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,104 212 114
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,87 385 121
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,80 181 305
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,111 477 218
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,EXPORT,Sea,VALUE_IN_EUROS,90 264 854
+140,Jan. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,74 642 453
+141,Feb. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,88 365 594
+142,Mar. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,86 218 828
+143,Apr. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,51 651 863
+144,May. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,45 511 149
+145,Jun. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,57 330 921
+146,Jul. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,53 070 869
+147,Aug. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,63 271 253
+148,Sep. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,70 002 829
+149,Oct. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,73 278 910
+150,Nov. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,86 702 749
+151,Dec. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,90 891 875
+152,Jan.-Dec. 2020,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,840 939 293
+153,Jan. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,78 215 070
+154,Feb. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,80 351 555
+155,Mar. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,104 212 114
+156,Apr. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,87 385 121
+157,May. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,80 181 305
+158,Jun. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,111 477 218
+159,Jul. 2021,Spain,India,Total,EXPORT,Sea,VALUE_IN_EUROS,90 264 854
 160,Jan. 2020,France,India,Total,EXPORT,Sea,VALUE_IN_EUROS,83 477 734
 161,Feb. 2020,France,India,Total,EXPORT,Sea,VALUE_IN_EUROS,109 126 679
 162,Mar. 2020,France,India,Total,EXPORT,Sea,VALUE_IN_EUROS,101 881 347
@@ -699,26 +699,26 @@
 137,May. 2021,Ireland,India,Total,IMPORT,Sea,VALUE_IN_EUROS,39 043 906
 138,Jun. 2021,Ireland,India,Total,IMPORT,Sea,VALUE_IN_EUROS,36 217 150
 139,Jul. 2021,Ireland,India,Total,IMPORT,Sea,VALUE_IN_EUROS,34 335 872
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,307 592 741
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,199 916 194
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,217 963 332
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,147 031 268
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,82 703 126
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,136 051 469
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,164 998 716
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,181 363 180
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,187 323 503
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,192 961 505
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,164 920 635
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,148 800 150
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,2 131 625 819
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,202 946 277
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,193 830 144
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,212 231 759
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,303 405 504
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,246 690 171
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,199 041 487
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),India,Total,IMPORT,Sea,VALUE_IN_EUROS,348 285 935
+140,Jan. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,307 592 741
+141,Feb. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,199 916 194
+142,Mar. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,217 963 332
+143,Apr. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,147 031 268
+144,May. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,82 703 126
+145,Jun. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,136 051 469
+146,Jul. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,164 998 716
+147,Aug. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,181 363 180
+148,Sep. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,187 323 503
+149,Oct. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,192 961 505
+150,Nov. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,164 920 635
+151,Dec. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,148 800 150
+152,Jan.-Dec. 2020,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,2 131 625 819
+153,Jan. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,202 946 277
+154,Feb. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,193 830 144
+155,Mar. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,212 231 759
+156,Apr. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,303 405 504
+157,May. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,246 690 171
+158,Jun. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,199 041 487
+159,Jul. 2021,Spain,India,Total,IMPORT,Sea,VALUE_IN_EUROS,348 285 935
 160,Jan. 2020,France,India,Total,IMPORT,Sea,VALUE_IN_EUROS,255 429 021
 161,Feb. 2020,France,India,Total,IMPORT,Sea,VALUE_IN_EUROS,323 217 208
 162,Mar. 2020,France,India,Total,IMPORT,Sea,VALUE_IN_EUROS,279 397 195
@@ -1259,26 +1259,26 @@
 137,May. 2021,Ireland,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,6 963 081
 138,Jun. 2021,Ireland,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,3 020 823
 139,Jul. 2021,Ireland,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,7 057 690
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,163 092 299
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,144 291 983
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,217 673 515
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,107 622 728
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,112 737 509
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,137 019 261
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,163 497 157
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,174 035 055
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,194 466 692
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,186 769 131
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,155 592 100
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,167 467 209
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,1 924 264 639
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,125 251 643
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,152 676 454
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,168 206 148
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,172 375 465
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,191 232 578
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,196 643 485
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,215 453 254
+140,Jan. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,163 092 299
+141,Feb. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,144 291 983
+142,Mar. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,217 673 515
+143,Apr. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,107 622 728
+144,May. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,112 737 509
+145,Jun. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,137 019 261
+146,Jul. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,163 497 157
+147,Aug. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,174 035 055
+148,Sep. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,194 466 692
+149,Oct. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,186 769 131
+150,Nov. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,155 592 100
+151,Dec. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,167 467 209
+152,Jan.-Dec. 2020,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,1 924 264 639
+153,Jan. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,125 251 643
+154,Feb. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,152 676 454
+155,Mar. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,168 206 148
+156,Apr. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,172 375 465
+157,May. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,191 232 578
+158,Jun. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,196 643 485
+159,Jul. 2021,Spain,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,215 453 254
 160,Jan. 2020,France,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,167 239 609
 161,Feb. 2020,France,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,143 221 407
 162,Mar. 2020,France,Brazil,Total,EXPORT,Sea,VALUE_IN_EUROS,158 658 641
@@ -1819,26 +1819,26 @@
 137,May. 2021,Ireland,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,14 047 974
 138,Jun. 2021,Ireland,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,10 901 492
 139,Jul. 2021,Ireland,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,10 610 831
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,264 807 958
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,211 367 398
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,313 341 773
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,318 219 178
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,263 395 195
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,297 639 849
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,234 783 445
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,396 576 848
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,448 010 597
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,335 838 819
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,135 669 841
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,148 861 895
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,3 368 512 796
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,180 003 861
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,169 701 751
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,368 002 926
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,362 987 048
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,335 460 541
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,481 249 812
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,354 407 533
+140,Jan. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,264 807 958
+141,Feb. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,211 367 398
+142,Mar. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,313 341 773
+143,Apr. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,318 219 178
+144,May. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,263 395 195
+145,Jun. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,297 639 849
+146,Jul. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,234 783 445
+147,Aug. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,396 576 848
+148,Sep. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,448 010 597
+149,Oct. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,335 838 819
+150,Nov. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,135 669 841
+151,Dec. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,148 861 895
+152,Jan.-Dec. 2020,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,3 368 512 796
+153,Jan. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,180 003 861
+154,Feb. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,169 701 751
+155,Mar. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,368 002 926
+156,Apr. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,362 987 048
+157,May. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,335 460 541
+158,Jun. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,481 249 812
+159,Jul. 2021,Spain,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,354 407 533
 160,Jan. 2020,France,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,130 831 351
 161,Feb. 2020,France,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,164 567 833
 162,Mar. 2020,France,Brazil,Total,IMPORT,Sea,VALUE_IN_EUROS,172 718 198
@@ -2379,26 +2379,26 @@
 137,May. 2021,Ireland,China,Total,EXPORT,Sea,VALUE_IN_EUROS,76 847 861
 138,Jun. 2021,Ireland,China,Total,EXPORT,Sea,VALUE_IN_EUROS,96 713 933
 139,Jul. 2021,Ireland,China,Total,EXPORT,Sea,VALUE_IN_EUROS,93 901 381
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,421 021 509
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,459 805 760
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,452 478 967
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,551 813 009
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,484 742 164
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,562 349 197
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,596 769 662
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,624 495 867
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,617 199 438
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,708 682 626
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,687 602 474
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,656 642 946
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,6 823 603 619
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,563 160 724
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,670 477 122
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,680 923 430
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,786 238 155
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,610 671 564
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,643 724 276
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,EXPORT,Sea,VALUE_IN_EUROS,477 884 048
+140,Jan. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,421 021 509
+141,Feb. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,459 805 760
+142,Mar. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,452 478 967
+143,Apr. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,551 813 009
+144,May. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,484 742 164
+145,Jun. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,562 349 197
+146,Jul. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,596 769 662
+147,Aug. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,624 495 867
+148,Sep. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,617 199 438
+149,Oct. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,708 682 626
+150,Nov. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,687 602 474
+151,Dec. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,656 642 946
+152,Jan.-Dec. 2020,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,6 823 603 619
+153,Jan. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,563 160 724
+154,Feb. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,670 477 122
+155,Mar. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,680 923 430
+156,Apr. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,786 238 155
+157,May. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,610 671 564
+158,Jun. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,643 724 276
+159,Jul. 2021,Spain,China,Total,EXPORT,Sea,VALUE_IN_EUROS,477 884 048
 160,Jan. 2020,France,China,Total,EXPORT,Sea,VALUE_IN_EUROS,524 979 746
 161,Feb. 2020,France,China,Total,EXPORT,Sea,VALUE_IN_EUROS,535 682 368
 162,Mar. 2020,France,China,Total,EXPORT,Sea,VALUE_IN_EUROS,587 296 420
@@ -2939,26 +2939,26 @@
 137,May. 2021,Ireland,China,Total,IMPORT,Sea,VALUE_IN_EUROS,249 096 643
 138,Jun. 2021,Ireland,China,Total,IMPORT,Sea,VALUE_IN_EUROS,242 869 885
 139,Jul. 2021,Ireland,China,Total,IMPORT,Sea,VALUE_IN_EUROS,232 376 920
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 898 197 318
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 709 092 806
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,859 238 917
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 152 402 963
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 383 343 941
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 448 741 292
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 792 712 211
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 496 037 096
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 703 922 511
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 584 967 888
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 562 098 666
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 501 871 892
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,18 092 627 501
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 708 955 675
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 736 234 902
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 832 645 532
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 645 050 205
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 652 496 306
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 769 268 945
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 981 735 118
+140,Jan. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 898 197 318
+141,Feb. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 709 092 806
+142,Mar. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,859 238 917
+143,Apr. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 152 402 963
+144,May. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 383 343 941
+145,Jun. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 448 741 292
+146,Jul. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 792 712 211
+147,Aug. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 496 037 096
+148,Sep. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 703 922 511
+149,Oct. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 584 967 888
+150,Nov. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 562 098 666
+151,Dec. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 501 871 892
+152,Jan.-Dec. 2020,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,18 092 627 501
+153,Jan. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 708 955 675
+154,Feb. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 736 234 902
+155,Mar. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 832 645 532
+156,Apr. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 645 050 205
+157,May. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 652 496 306
+158,Jun. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 769 268 945
+159,Jul. 2021,Spain,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 981 735 118
 160,Jan. 2020,France,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 740 369 490
 161,Feb. 2020,France,China,Total,IMPORT,Sea,VALUE_IN_EUROS,2 210 668 151
 162,Mar. 2020,France,China,Total,IMPORT,Sea,VALUE_IN_EUROS,1 189 470 301
@@ -3499,26 +3499,26 @@
 137,May. 2021,Ireland,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,15 586 230
 138,Jun. 2021,Ireland,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,12 642 722
 139,Jul. 2021,Ireland,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,18 097 949
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,49 341 566
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,66 509 671
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,56 197 323
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,41 758 123
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,40 221 613
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,55 530 366
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,59 513 221
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,56 187 702
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,68 151 882
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,65 464 257
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,57 442 399
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,59 427 081
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,675 745 204
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,53 308 378
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,69 842 552
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,64 070 907
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,113 959 043
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,67 004 775
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,131 789 891
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,72 003 157
+140,Jan. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,49 341 566
+141,Feb. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,66 509 671
+142,Mar. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,56 197 323
+143,Apr. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,41 758 123
+144,May. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,40 221 613
+145,Jun. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,55 530 366
+146,Jul. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,59 513 221
+147,Aug. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,56 187 702
+148,Sep. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,68 151 882
+149,Oct. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,65 464 257
+150,Nov. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,57 442 399
+151,Dec. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,59 427 081
+152,Jan.-Dec. 2020,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,675 745 204
+153,Jan. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,53 308 378
+154,Feb. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,69 842 552
+155,Mar. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,64 070 907
+156,Apr. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,113 959 043
+157,May. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,67 004 775
+158,Jun. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,131 789 891
+159,Jul. 2021,Spain,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,72 003 157
 160,Jan. 2020,France,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,33 966 092
 161,Feb. 2020,France,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,44 482 719
 162,Mar. 2020,France,Russian Federation (Russia),Total,EXPORT,Sea,VALUE_IN_EUROS,51 306 671
@@ -4059,26 +4059,26 @@
 137,May. 2021,Ireland,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,46 680 180
 138,Jun. 2021,Ireland,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,13 124 523
 139,Jul. 2021,Ireland,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,30 465 671
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,363 255 910
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,374 141 514
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,190 844 332
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,118 289 096
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,141 557 576
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,129 854 592
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,161 513 235
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,188 521 520
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,209 518 327
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,196 219 974
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,189 590 077
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,138 938 099
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,2 402 244 252
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,364 363 551
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,376 804 140
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,256 340 904
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,321 245 270
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,541 600 117
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,464 403 471
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,421 159 693
+140,Jan. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,363 255 910
+141,Feb. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,374 141 514
+142,Mar. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,190 844 332
+143,Apr. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,118 289 096
+144,May. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,141 557 576
+145,Jun. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,129 854 592
+146,Jul. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,161 513 235
+147,Aug. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,188 521 520
+148,Sep. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,209 518 327
+149,Oct. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,196 219 974
+150,Nov. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,189 590 077
+151,Dec. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,138 938 099
+152,Jan.-Dec. 2020,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,2 402 244 252
+153,Jan. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,364 363 551
+154,Feb. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,376 804 140
+155,Mar. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,256 340 904
+156,Apr. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,321 245 270
+157,May. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,541 600 117
+158,Jun. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,464 403 471
+159,Jul. 2021,Spain,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,421 159 693
 160,Jan. 2020,France,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,772 169 803
 161,Feb. 2020,France,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,737 510 934
 162,Mar. 2020,France,Russian Federation (Russia),Total,IMPORT,Sea,VALUE_IN_EUROS,689 341 441
@@ -4619,26 +4619,26 @@
 137,May. 2021,Ireland,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,364 644 262
 138,Jun. 2021,Ireland,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,485 231 734
 139,Jul. 2021,Ireland,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,538 548 617
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,769 044 138
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,941 733 755
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,914 825 621
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,623 650 761
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,635 514 126
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,927 904 597
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,887 589 968
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,565 637 232
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,721 657 011
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,852 532 040
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,756 169 722
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,785 373 871
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,9 381 632 842
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,604 590 191
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,852 764 162
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 138 614 027
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,879 466 148
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,928 545 739
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 063 100 137
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,981 809 791
+140,Jan. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,769 044 138
+141,Feb. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,941 733 755
+142,Mar. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,914 825 621
+143,Apr. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,623 650 761
+144,May. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,635 514 126
+145,Jun. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,927 904 597
+146,Jul. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,887 589 968
+147,Aug. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,565 637 232
+148,Sep. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,721 657 011
+149,Oct. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,852 532 040
+150,Nov. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,756 169 722
+151,Dec. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,785 373 871
+152,Jan.-Dec. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,9 381 632 842
+153,Jan. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,604 590 191
+154,Feb. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,852 764 162
+155,Mar. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 138 614 027
+156,Apr. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,879 466 148
+157,May. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,928 545 739
+158,Jun. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 063 100 137
+159,Jul. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,981 809 791
 160,Jan. 2020,France,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 040 117 186
 161,Feb. 2020,France,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 180 653 981
 162,Mar. 2020,France,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,EXPORT,Sea,VALUE_IN_EUROS,1 243 608 404
@@ -5179,26 +5179,26 @@
 137,May. 2021,Ireland,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,183 103 667
 138,Jun. 2021,Ireland,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,165 708 677
 139,Jul. 2021,Ireland,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,194 553 783
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,817 314 732
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,829 859 444
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,711 742 992
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,521 772 789
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,439 864 670
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,471 292 858
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,554 149 931
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,426 457 487
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,542 905 255
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,576 375 937
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,497 758 082
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,491 819 124
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,6 881 313 301
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,482 071 197
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,737 369 997
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,564 320 240
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,584 303 472
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,622 362 620
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,515 124 384
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,745 338 244
+140,Jan. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,817 314 732
+141,Feb. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,829 859 444
+142,Mar. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,711 742 992
+143,Apr. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,521 772 789
+144,May. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,439 864 670
+145,Jun. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,471 292 858
+146,Jul. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,554 149 931
+147,Aug. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,426 457 487
+148,Sep. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,542 905 255
+149,Oct. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,576 375 937
+150,Nov. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,497 758 082
+151,Dec. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,491 819 124
+152,Jan.-Dec. 2020,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,6 881 313 301
+153,Jan. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,482 071 197
+154,Feb. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,737 369 997
+155,Mar. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,564 320 240
+156,Apr. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,584 303 472
+157,May. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,622 362 620
+158,Jun. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,515 124 384
+159,Jul. 2021,Spain,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,745 338 244
 160,Jan. 2020,France,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,967 002 999
 161,Feb. 2020,France,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,780 670 391
 162,Mar. 2020,France,United States (incl. Navassa Island (part of 'UM') from 1995 -> 2000),Total,IMPORT,Sea,VALUE_IN_EUROS,777 200 932
@@ -5739,26 +5739,26 @@
 137,May. 2021,Ireland,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,11 129 016
 138,Jun. 2021,Ireland,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,13 095 231
 139,Jul. 2021,Ireland,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,21 380 029
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,81 255 471
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,91 084 074
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,104 020 598
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,66 458 298
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,52 237 553
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,95 961 944
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,100 433 049
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,65 029 173
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,101 242 169
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,95 134 608
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,92 366 383
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,108 635 687
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,1 053 859 007
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,68 775 591
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,99 652 036
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,118 351 840
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,83 538 681
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,106 051 871
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,94 542 723
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,104 327 824
+140,Jan. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,81 255 471
+141,Feb. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,91 084 074
+142,Mar. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,104 020 598
+143,Apr. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,66 458 298
+144,May. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,52 237 553
+145,Jun. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,95 961 944
+146,Jul. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,100 433 049
+147,Aug. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,65 029 173
+148,Sep. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,101 242 169
+149,Oct. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,95 134 608
+150,Nov. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,92 366 383
+151,Dec. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,108 635 687
+152,Jan.-Dec. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,1 053 859 007
+153,Jan. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,68 775 591
+154,Feb. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,99 652 036
+155,Mar. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,118 351 840
+156,Apr. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,83 538 681
+157,May. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,106 051 871
+158,Jun. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,94 542 723
+159,Jul. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,104 327 824
 160,Jan. 2020,France,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,57 325 828
 161,Feb. 2020,France,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,74 428 255
 162,Mar. 2020,France,South Africa (incl. Namibia 'NA' -> 1989),Total,EXPORT,Sea,VALUE_IN_EUROS,68 174 933
@@ -6299,26 +6299,26 @@
 137,May. 2021,Ireland,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,5 785 847
 138,Jun. 2021,Ireland,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,5 445 810
 139,Jul. 2021,Ireland,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,6 771 161
-140,Jan. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,51 021 427
-141,Feb. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,47 669 043
-142,Mar. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,59 644 293
-143,Apr. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,68 855 386
-144,May. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,36 505 828
-145,Jun. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,37 483 847
-146,Jul. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,48 952 990
-147,Aug. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,54 823 774
-148,Sep. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,46 711 402
-149,Oct. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,70 065 749
-150,Nov. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,55 653 300
-151,Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,72 656 975
-152,Jan.-Dec. 2020,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,650 044 014
-153,Jan. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,60 672 207
-154,Feb. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,44 952 118
-155,Mar. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,80 286 497
-156,Apr. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,207 574 524
-157,May. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,73 692 811
-158,Jun. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,108 732 613
-159,Jul. 2021,Spain (incl. Canary Islands 'XB' from 1997),South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,68 052 548
+140,Jan. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,51 021 427
+141,Feb. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,47 669 043
+142,Mar. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,59 644 293
+143,Apr. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,68 855 386
+144,May. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,36 505 828
+145,Jun. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,37 483 847
+146,Jul. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,48 952 990
+147,Aug. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,54 823 774
+148,Sep. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,46 711 402
+149,Oct. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,70 065 749
+150,Nov. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,55 653 300
+151,Dec. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,72 656 975
+152,Jan.-Dec. 2020,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,650 044 014
+153,Jan. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,60 672 207
+154,Feb. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,44 952 118
+155,Mar. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,80 286 497
+156,Apr. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,207 574 524
+157,May. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,73 692 811
+158,Jun. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,108 732 613
+159,Jul. 2021,Spain,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,68 052 548
 160,Jan. 2020,France,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,14 990 472
 161,Feb. 2020,France,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,17 179 918
 162,Mar. 2020,France,South Africa (incl. Namibia 'NA' -> 1989),Total,IMPORT,Sea,VALUE_IN_EUROS,12 948 522
