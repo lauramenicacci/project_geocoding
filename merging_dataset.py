@@ -7,7 +7,7 @@ list = ['dataset_india_export','dataset_india_import','dataset_brazil_export','d
 df_list = []
 for i in list:
     # the next line of code don't work on IOS, substitute // with \
-    PATH = 'dataset_project_DSA\\'+ i +'\\DS-1262527_1_Data.csv'
+    PATH = 'dataset_project_DSA/'+ i +'/DS-1262527_1_Data.csv'
     data = pd.read_csv(PATH)
     df_list.append(data)
 
