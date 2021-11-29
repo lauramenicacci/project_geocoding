@@ -1,6 +1,7 @@
 #import webbrowser
 import pandas as pd
 import plotly.express as px
+import time
 
 complete_dataset = pd.read_csv('complete_dataset.csv')
 position_countries = pd.read_csv('position_countries.csv')
@@ -45,11 +46,12 @@ def map_function(partner_country, time_period, flow):
         fig.update_traces(marker = dict(color = "pink"))
     else:
         fig.update_traces(marker = dict(color = "blue"))
-    fig.show()
+    return fig
 
 
-map_function('Brazil','Mar. 2020', 'IMPORT')
-
+map_function('Brazil','Mar. 2020', 'EXPORT').show()
+time.sleep(3)
+map_function('Brazil','Mar. 2020', 'IMPORT').show()
 
 # #
 # indiaEx_try = complete_dataset.loc[(complete_dataset['PERIOD'] == 'Jan. 2020') & \
