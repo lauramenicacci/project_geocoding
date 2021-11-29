@@ -35,9 +35,9 @@ def map_function(partner_country, time_period, Import = True):
                              size = 'Export')
         fig.update_geos(fitbounds="locations", showcountries = True)
     else:
-        df = pd.DataFrame(complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
+        df = complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
                             (complete_dataset['PARTNER'] == partner_country) &\
-                            (complete_dataset['FLOW'] == 'EXPORT')])
+                            (complete_dataset['FLOW'] == 'EXPORT')]
         Export = []
         index = df.index.tolist()
         for i in index[:-1]:
