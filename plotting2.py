@@ -14,44 +14,58 @@ d = complete_dataset.loc[(complete_dataset['PERIOD'] == 'Mar. 2020') & \
                         (complete_dataset['FLOW'] == 'IMPORT')]
 
 
-def map_function(partner_country, time_period, flow):
-    # if imports:
-    #     df = complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
-    #                             (complete_dataset['PARTNER'] == partner_country) &\
-    #                             (complete_dataset['FLOW'] == 'IMPORT')]
-    # else:
-    df = pd.DataFrame(complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
+def map_function(partner_country, time_period, Import = True):
+    if Import:
+        df = complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
+                                (complete_dataset['PARTNER'] == partner_country) &\
+                                (complete_dataset['FLOW'] == 'IMPORT')]
+        Import = []
+        index = df.index.tolist()
+        for i in index[:-1]:
+            if df['Value'][i] == ':':
+                df['Value'][i] = '0'
+            Import.append(float(df['Value'][i].replace(' ',''))/10**7)
+        position_countries['Import'] = Import
+
+        fig = px.scatter_geo(position_countries, # work on the dataframe position_countries
+                             lon = "longitude",  # so modify it as you need!
+                             lat = "latitude",
+                             projection="natural earth",
+                             hover_name = "name",
+                             size = 'Export')
+        fig.update_geos(fitbounds="locations", showcountries = True)
+    else:
+        df = pd.DataFrame(complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
                             (complete_dataset['PARTNER'] == partner_country) &\
-                            (complete_dataset['FLOW'] == flow)])
-    print(df)
-    new_col = []
-    index = df.index.tolist()
-    for i in index[:-1]:
-        if df['Value'][i] == ':':
-            df['Value'][i] = '0'
-        new_col.append(float(df['Value'][i].replace(' ',''))/10**7)
+                            (complete_dataset['FLOW'] == 'EXPORT')])
+        Export = []
+        index = df.index.tolist()
+        for i in index[:-1]:
+            if df['Value'][i] == ':':
+                df['Value'][i] = '0'
+            Export.append(float(df['Value'][i].replace(' ',''))/10**7)
 
-    position_countries['new_col'] = new_col
+        position_countries['Export'] = Export
 
-    fig = px.scatter_geo(position_countries, # work on the dataframe position_countries
-                         lon = "longitude",  # so modify it as you need!
-                         lat = "latitude",
-                         projection="natural earth",
-                         hover_name = "name",
-                         size = 'new_col')
+        fig = px.scatter_geo(position_countries, # work on the dataframe position_countries
+                             lon = "longitude",  # so modify it as you need!
+                             lat = "latitude",
+                             projection="natural earth",
+                             hover_name = "name",
+                             size = 'Export')
 
-    fig.update_geos(fitbounds="locations", showcountries = True)
+        fig.update_geos(fitbounds="locations", showcountries = True)
 
-    if flow == 'IMPORT':
+    if Import:
         fig.update_traces(marker = dict(color = "pink"))
     else:
         fig.update_traces(marker = dict(color = "blue"))
     return fig
 
 
-map_function('Brazil','Mar. 2020', 'EXPORT').show()
+map_function('Brazil','Mar. 2020', Import = False).show()
 time.sleep(3)
-map_function('Brazil','Mar. 2020', 'IMPORT').show()
+map_function('Brazil','Mar. 2020').show()
 
 # #
 # indiaEx_try = complete_dataset.loc[(complete_dataset['PERIOD'] == 'Jan. 2020') & \
