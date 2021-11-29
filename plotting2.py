@@ -8,61 +8,70 @@ lat = position_countries['latitude'].mean()
 print(lat)
 lon = position_countries['longitude'].mean()
 
-def map_function(partner_country, time_period, imports = True):
-    if imports:
-        df = complete_dataset.loc[(complete_dataset['PERIOD'] == 'time_period') & \
-                                (complete_dataset['PARTNER'] == 'partner_country') &\
-                                (complete_dataset['FLOW'] == 'IMPORT')]
-    else:
-        df = complete_dataset.loc[(complete_dataset['PERIOD'] == 'time_period') & \
-                                (complete_dataset['PARTNER'] == 'partner_country') &\
-                                (complete_dataset['FLOW'] == 'EXPORT')]
+d = complete_dataset.loc[(complete_dataset['PERIOD'] == 'Mar. 2020') & \
+                        (complete_dataset['PARTNER'] == 'Brazil') &\
+                        (complete_dataset['FLOW'] == 'IMPORT')]
+
+
+def map_function(partner_country, time_period, flow):
+    # if imports:
+    #     df = complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
+    #                             (complete_dataset['PARTNER'] == partner_country) &\
+    #                             (complete_dataset['FLOW'] == 'IMPORT')]
+    # else:
+    df = pd.DataFrame(complete_dataset.loc[(complete_dataset['PERIOD'] == time_period) & \
+                            (complete_dataset['PARTNER'] == partner_country) &\
+                            (complete_dataset['FLOW'] == flow)])
+    print(df)
     new_col = []
-    for i in range(df.shape[0]-1):
-        new_col.append(float(df['Value'][i*20].replace(' ',''))/10**7)
-    
+    index = df.index.tolist()
+    for i in index[:-1]:
+        if df['Value'][i] == ':':
+            df['Value'][i] = '0'
+        new_col.append(float(df['Value'][i].replace(' ',''))/10**7)
+
     position_countries['new_col'] = new_col
-    
+
     fig = px.scatter_geo(position_countries, # work on the dataframe position_countries
                          lon = "longitude",  # so modify it as you need!
                          lat = "latitude",
                          projection="natural earth",
                          hover_name = "name",
                          size = 'new_col')
-    
+
     fig.update_geos(fitbounds="locations", showcountries = True)
-    
-    if imports:
+
+    if flow == 'IMPORT':
         fig.update_traces(marker = dict(color = "pink"))
     else:
         fig.update_traces(marker = dict(color = "blue"))
-
-    
-
+    fig.show()
 
 
+map_function('Brazil','Mar. 2020', 'IMPORT')
 
 
-indiaEx_try = complete_dataset.loc[(complete_dataset['PERIOD'] == 'Jan. 2020') & \
-                            (complete_dataset['PARTNER'] == 'India') &\
-                            (complete_dataset['FLOW'] == 'EXPORT')]
-# print(indiaEx_try)
-export = []
-for i in range(indiaEx_try.shape[0]-1):
-    export.append(float(indiaEx_try['Value'][i*20].replace(' ',''))/10**7)
-#problem with dimension, need ot be fixed!
-
-position_countries['export'] = export
-
-fig = px.scatter_geo(position_countries, # work on the dataframe position_countries
-                     lon = "longitude",  # so modify it as you need!
-                     lat = "latitude",
-                     projection="natural earth",
-                     hover_name = "name",
-                     size = 'export')
-
-fig.update_traces(marker = dict(color = "green"))
-
-fig.update_geos(fitbounds="locations", showcountries = True)
-
-fig.show()
+# #
+# indiaEx_try = complete_dataset.loc[(complete_dataset['PERIOD'] == 'Jan. 2020') & \
+#                              (complete_dataset['PARTNER'] == 'India') &\
+#                              (complete_dataset['FLOW'] == 'EXPORT')]
+# # # print(indiaEx_try)
+# export = []
+# for i in range(indiaEx_try.shape[0]-1):
+#     export.append(float(indiaEx_try['Value'][i*20].replace(' ',''))/10**7)
+# # #problem with dimension, need ot be fixed!
+# #
+# position_countries['export'] = export
+# #
+# fig = px.scatter_geo(position_countries, # work on the dataframe position_countries
+#                      lon = "longitude",  # so modify it as you need!
+#                      lat = "latitude",
+#                      projection="natural earth",
+#                      hover_name = "name",
+#                      size = 'export')
+# #
+# fig.update_traces(marker = dict(color = "green"))
+# #
+# fig.update_geos(fitbounds="locations", showcountries = True)
+# #
+# fig.show()
