@@ -16,7 +16,7 @@ def add_lat_lon(df, pos_countries):
     d_long = dict(zip(pos_countries['name'], pos_countries['longitude']))
     lat = []
     long = []
-    for index, row in df.iterrows():
+    for index, row in df.iterrows(): #there are only 500, that's way I iterate over the rows
         lat.append(d_lat[row['REPORTER']])
         long.append(d_long[row['REPORTER']])
     df['Latitude'] = lat
