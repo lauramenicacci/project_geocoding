@@ -13,4 +13,4 @@ def merge_database(compleate_df, already_merged = []):
             l.append(data)
             already_merged.append(dir)
     datas = pd.concat(l)
-    return pd.concat([compleate_df,datas]), already_merged
+    return pd.concat([compleate_df,datas], already_merged)
