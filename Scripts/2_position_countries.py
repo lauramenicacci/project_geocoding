@@ -18,5 +18,5 @@ for i in list(df_position['name']):
 
 # update position dataframe (filtered in the step before)
 df_position = df_position[l]
-#export dataset 
+#export dataset
 df_position.to_csv('position_countries.csv')
