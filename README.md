@@ -24,11 +24,9 @@ show the economic size of export and import via maritime transportation
 analyse economic trends between EU and BRICS countries
 make data and maps available for the user to select countries of interest 
 
-IN DOUBT
-Steps: 
-
-- Retrieve the dataset. The source we used to download data is https://ec.europa.eu/eurostat/web/transport/data/database. 
-- Clean and merge the datasets, rendering it available to use. 
-- Analysis
-
+ODER (TO RUN SCRIPTS)
+1. position_countries.py
+2. clean_and_merge_data.py
+3. add_lat_lon.py
+4. map_plotly.py
 
