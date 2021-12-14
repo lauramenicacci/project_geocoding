@@ -3,6 +3,15 @@ import add_lat_lon_3
 import os
 
 def merge_database(complete_df, already_merged = []):
+    '''
+    Return the joined dataset and a list of the name of the file already merged.
+
+    If already merged is not passed, it is considered empty.
+
+    Parameters
+    ----------
+    complete_dataset: pandas DataFrame that you want to extend.
+    '''
     l = []
     for dir in  os.listdir(str(os.getcwd()) + '/dataset_project_DSA'):
         if dir[0:4] == 'data' and dir not in already_merged:
