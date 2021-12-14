@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.express as px
 
 
-official_df = pd.read_csv('official_dataset.csv')
+official_df = pd.read_csv('..\official_dataset.csv')
 lat = official_df['Latitude'].unique()
 lon = official_df['Longitude'].unique()
 
