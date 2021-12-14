@@ -1,5 +1,6 @@
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 
 
 official_df = pd.read_csv('official_dataset.csv')
@@ -13,7 +14,10 @@ print(official_df['Value'])
 official_df['Value'] = official_df['Value'].astype(float)
 
 
-fig = px.scatter_geo(official_df,
+#fig= go.Figure()
+
+fig.add_trace(
+    px.scatter_geo(official_df,
                     lat = 'Latitude',
                     lon = 'Longitude',
                     animation_frame = 'PERIOD',
@@ -21,6 +25,7 @@ fig = px.scatter_geo(official_df,
                     hover_name = 'REPORTER',
                     size = 'Value',
                     color = 'PARTNER')
+    )
 
 fig.update_geos(fitbounds="locations", showcountries = True)
 
@@ -31,12 +36,12 @@ fig.update_layout(
             direction = "left",
             buttons=list([
                 dict(
-                    args=['FLOW'=='IMPORT'],
+                    args=["true", "false"],
                     label="Import",
                     method="update"
                 ),
                 dict(
-                    args=['FLOW'=="EXPORT"],
+                    args=["false", "true"],
                     label="Export",
                     method="update"
                 )
