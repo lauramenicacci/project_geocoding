@@ -1,6 +1,15 @@
 import pandas as pd
 
 def clean_df(df):
+    '''
+    Function that clean the name of the counties in the dataset
+    (e.g.  from 'Belgium (incl. Luxembourg LU -> 1998)' to 'Belgium')
+
+    Parameters
+    ----------
+    df: pandas dataFrame that is it necessary to be clean
+
+    '''
     drop_df = df.loc[df['REPORTER'] == 'Czechia']
     df = df.drop(drop_df.index)
     df['REPORTER'] = df['REPORTER'].replace({'Belgium (incl. Luxembourg \'LU\' -> 1998)':'Belgium'})
@@ -12,6 +21,15 @@ def clean_df(df):
     return df
 
 def add_lat_lon(df, pos_countries):
+    '''
+    It add the latitude and longitude to the main dataset, so now it is ready to
+    be passed to plotly
+
+    Parameters
+    ----------
+    df: main pandas dataFrame
+    pos_countries: pandas DataFrame with the latitude and longitude
+    '''
     d_lat = dict(zip(pos_countries['name'], pos_countries['latitude']))
     d_long = dict(zip(pos_countries['name'], pos_countries['longitude']))
     lat = []
