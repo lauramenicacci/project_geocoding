@@ -23,9 +23,3 @@ We used the following packages: pandas, plotly express.
  - Show the economic size of export and import via maritime transportation 
  - Analyse economic trends between EU and BRICS countries along a specific period of time
  - Make data and maps available for the user to select countries of interest 
-
-# Material order 
-1. position_countries.py
-2. clean_and_merge_data.py
-3. add_lat_lon.py
-4. map_plotly.py
