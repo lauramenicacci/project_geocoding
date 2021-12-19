@@ -10,7 +10,7 @@ The output consists of a dynamic representation of the commercial relations betw
 https://ec.europa.eu/eurostat/web/transport/data/database
 Such sources include the flows (import and export) values represented in euros that has been transported via sea. 
 
-# Description of results
+# Final output
  - The bubbles represent the value of total imports (exports) of each EU country for each month of the selected timeframe. 
  - The colour of the bubbles explains the different EU partners 
  - The slider interactively illustrates the change of M/X over time. 
