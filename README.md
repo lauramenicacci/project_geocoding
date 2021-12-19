@@ -28,3 +28,9 @@ The following packages have been used:
  - Show the economic size of export and import via maritime transportation 
  - Analyse economic trends between EU and BRICS countries along a specific period of time
  - Make data and maps available for the user to select countries of interest 
+
+# Contributors
+ - [Francesca Giacco]
+ - [Lorenzo Gini]
+ - [Laura Menicacci]
+ - [Maren Rieker]
