@@ -30,7 +30,7 @@ The following packages have been used:
  - Make data and maps available for the user to select countries of interest 
 
 # Contributors
- - [Francesca Giacco]
- - [Lorenzo Gini]
- - [Laura Menicacci]
- - [Maren Rieker]
+ - [Francesca Giacco](https://github.com/francescagiacco)
+ - [Lorenzo Gini](https://github.com/zazzooo)
+ - [Laura Menicacci](https://github.com/lauramenicacci)
+ - [Maren Rieker](https://github.com/marenrieker)
