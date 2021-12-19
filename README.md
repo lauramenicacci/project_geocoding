@@ -9,9 +9,9 @@ The final output should visualize the monetary size of imports and exports in ev
 https://ec.europa.eu/eurostat/web/transport/data/database
 
 # Description of results
-The dots represent the value of total imports (exports) of each EU country for each month of the selected years. 
-The lines instead represent the value of goods imported (exported) by each EU country from (to) each trading partner. 
-The thickness of the lines change according to the value of goods traded in each month of the selected years. 
+ - The dots represent the value of total imports (exports) of each EU country for each month of the selected years. 
+ - The lines instead represent the value of goods imported (exported) by each EU country from (to) each trading partner. 
+ - The thickness of the lines change according to the value of goods traded in each month of the selected years. 
 
 # User interaction
 The user can select the states between which she wants to see the exports and imports relationships. 
