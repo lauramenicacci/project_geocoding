@@ -8,6 +8,7 @@ The output consists of a dynamic representation of the commercial relations betw
 
 # Resources
 https://ec.europa.eu/eurostat/web/transport/data/database
+
 Such sources include the flows (import and export) values represented in euros that has been transported via sea. 
 
 # Final output
