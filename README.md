@@ -1,5 +1,4 @@
 # European Import-Export Geoanalysis
-project_geocoding
 
 # Introduction
 The Covid-19 pandemic generated a deep crisis in maritime transportation sector due to the long break in imports and exports among countries. Consequences of such crisis are still visible now, two years after the Covid-19 outbreak started, and they do not seem to finish now, as energy shortages and delivery delays have become a daily occurrence in the European Union member states. 
