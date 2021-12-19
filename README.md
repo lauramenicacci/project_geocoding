@@ -7,7 +7,7 @@ The ultimate aim of this project is to illustrate the economic value of goods im
 The output consists of a dynamic representation of the commercial relations between such countries. The analysis is limited to the years 2020 and 2021, with a final visualization of the monetary size of imports and exports in every month of the two selected years as well as the routes between the countries.
 
 # Resources
-https://ec.europa.eu/eurostat/web/transport/data/database
+[Eurostat database](https://ec.europa.eu/eurostat/web/transport/data/database)
 
 Such sources include the flows (import and export) values represented in euros that has been transported via sea. 
 
